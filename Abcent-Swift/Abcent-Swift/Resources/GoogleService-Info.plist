@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>441217190705-9jthnnn2uileo2a7kbe2tqsubfn5be34.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.441217190705-9jthnnn2uileo2a7kbe2tqsubfn5be34</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAaIMzwme9Ln_lThB9IRNopSF9VwDFO_lQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>441217190705</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.patrickhaoy.Abcent-Swift</string>
+	<key>PROJECT_ID</key>
+	<string>accentreducer</string>
+	<key>STORAGE_BUCKET</key>
+	<string>accentreducer.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:441217190705:ios:1513329340f9d5cc157e10</string>
+	<key>DATABASE_URL</key>
+	<string>https://accentreducer.firebaseio.com</string>
+</dict>
+</plist>

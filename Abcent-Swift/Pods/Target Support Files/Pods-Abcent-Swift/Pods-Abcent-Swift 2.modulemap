@@ -1,0 +1,6 @@
+framework module Pods_Abcent_Swift {
+  umbrella header "Pods-Abcent-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
